@@ -48,6 +48,8 @@ payload:
   - DOMAIN-SUFFIX, public.emby.ws
 # -->> 剧狗
   - DOMAIN-SUFFIX, ju.dog
+# -->> Error Media
+  - DOMAIN-SUFFIX, prisms.cc
 
 # -->> 兜底
   - DOMAIN-KEYWORD, emby
