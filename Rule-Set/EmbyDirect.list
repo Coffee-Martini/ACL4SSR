@@ -22,5 +22,3 @@ payload:
   - DOMAIN-SUFFIX, magpie.cyou
 # -->> GuGu Media
   - DOMAIN-SUFFIX, gugumedia.link
-  # -->> Error Media
-  - DOMAIN-SUFFIX, prisms.cc
