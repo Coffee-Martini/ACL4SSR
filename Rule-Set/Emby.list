@@ -29,7 +29,7 @@ IP-CIDR, 129.150.49.70/32
 # -->> Orange
 DOMAIN-SUFFIX, embytv.cf
 # -->> Peach
-DOMAIN-SUFFIX, embymv.tk
+DOMAIN, embymv.tk
 # -->> DV服
 DOMAIN-SUFFIX, emby.lzlz.cc
 # -->> 酒吧影业
