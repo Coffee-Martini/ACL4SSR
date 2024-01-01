@@ -1,55 +1,55 @@
 payload:
-  - DOMAIN-SUFFIX, emby.imovietv.ml
-  - DOMAIN-SUFFIX, aiyowei.club
-  - DOMAIN-SUFFIX, emby.x-yq.cn
+DOMAIN-SUFFIX, emby.imovietv.ml
+DOMAIN-SUFFIX, aiyowei.club
+DOMAIN-SUFFIX, emby.x-yq.cn
 # -->> PornEmby
-  - DOMAIN-SUFFIX, pornemby.club
+DOMAIN-SUFFIX, pornemby.club
 # -->> 终点站
-  - DOMAIN-SUFFIX, emby.wtf
+DOMAIN-SUFFIX, emby.wtf
 # -->> 卡戎
-  - DOMAIN-SUFFIX, charontv.com
+DOMAIN-SUFFIX, charontv.com
 # -->> 卷毛鼠
-  - DOMAIN-SUFFIX, jmsooo.com
+DOMAIN-SUFFIX, jmsooo.com
 # -->> 熊猫
-  - DOMAIN-SUFFIX, emby.kim
+DOMAIN-SUFFIX, emby.kim
 # -->> Misakaf
-  - DOMAIN-SUFFIX, misakaf.org
+DOMAIN-SUFFIX, misakaf.org
 # -->> Misty
-  - DOMAIN-SUFFIX, misty.ltd
+DOMAIN-SUFFIX, misty.ltd
 # -->> 品云
-  - DOMAIN-SUFFIX, py.embyplus.club
+DOMAIN-SUFFIX, py.embyplus.club
 # -->> PoloEmby
-  - DOMAIN-SUFFIX, poloemby.xyz
+DOMAIN-SUFFIX, poloemby.xyz
 # -->> CatFish
-  - DOMAIN-SUFFIX, catfishemby.club
+DOMAIN-SUFFIX, catfishemby.club
 # -->> CC
-  - DOMAIN-SUFFIX, cc.ccemby.tk
-  - DOMAIN-SUFFIX, ccemby.ga
-  - IP-CIDR, 129.150.49.70/32
+DOMAIN-SUFFIX, cc.ccemby.tk
+DOMAIN-SUFFIX, ccemby.ga
+IP-CIDR, 129.150.49.70/32
 # -->> Orange
-  - DOMAIN-SUFFIX, embytv.cf
+DOMAIN-SUFFIX, embytv.cf
 # -->> Peach
-  - DOMAIN-SUFFIX, embymv.tk
+DOMAIN-SUFFIX, embymv.tk
 # -->> DV服
-  - DOMAIN-SUFFIX, emby.lzlz.cc
+DOMAIN-SUFFIX, emby.lzlz.cc
 # -->> 酒吧影业
-  - DOMAIN-SUFFIX, the98.ltd
+DOMAIN-SUFFIX, the98.ltd
 # -->> Nebula
-  - DOMAIN-SUFFIX, direct.nebula-emby.com
+DOMAIN-SUFFIX, direct.nebula-emby.com
 # -->> gfwEmby
-  - DOMAIN-SUFFIX, gfwemby.org
+DOMAIN-SUFFIX, gfwemby.org
 # -->> BlueSea
-  - DOMAIN-SUFFIX, blueseamusics.com
-  - DOMAIN-SUFFIX, blueseacdn.com
-  - DOMAIN-SUFFIX, bsem.ddns.me
+DOMAIN-SUFFIX, blueseamusics.com
+DOMAIN-SUFFIX, blueseacdn.com
+DOMAIN-SUFFIX, bsem.ddns.me
 # -->> TreeDiagram
-  - DOMAIN-SUFFIX, 789.123456.al
+DOMAIN-SUFFIX, 789.123456.al
 # -->> Dolphin Emby
-  - DOMAIN-SUFFIX, public.emby.ws
+DOMAIN-SUFFIX, public.emby.ws
 # -->> 剧狗
-  - DOMAIN-SUFFIX, ju.dog
+DOMAIN-SUFFIX, ju.dog
 # -->> Error Media
-  - DOMAIN-SUFFIX, prisms.cc
+DOMAIN-SUFFIX, prisms.cc
 
 # -->> 兜底
-  - DOMAIN-KEYWORD, emby
+DOMAIN-KEYWORD, emby
