@@ -1,0 +1,37 @@
+# =====================================================================
+# 自定义代理与分流规则库 (Custom Proxy Rules)
+# 托管于 GitHub，可通过 rule-provider 远程加载
+# =====================================================================
+
+# 域名后缀匹配 (DOMAIN-SUFFIX)
+DOMAIN-SUFFIX,tmdb.org,默认代理
+DOMAIN-SUFFIX,tinymediamanager.org,默认代理
+DOMAIN-SUFFIX,crdroid.net,默认代理
+DOMAIN-SUFFIX,lnaspiring.com,默认代理
+DOMAIN-SUFFIX,influencersgonewild.com,默认代理
+DOMAIN-SUFFIX,internetdownloadmanager.com,日本节点
+DOMAIN-SUFFIX,id9.cc,默认代理
+DOMAIN-SUFFIX,npmjs.org,默认代理
+DOMAIN-SUFFIX,gamedva.com,默认代理
+DOMAIN-SUFFIX,xiaoya.pro,默认代理
+DOMAIN-SUFFIX,adtidy.org,默认代理
+DOMAIN-SUFFIX,erroris.best,默认代理
+DOMAIN-SUFFIX,xn--9kq2f266n.space,默认代理
+DOMAIN-SUFFIX,pixeldrain.com,自动选择
+DOMAIN-SUFFIX,pling.com,自动选择
+DOMAIN-SUFFIX,xmsl.org,新加坡节点
+DOMAIN-SUFFIX,nvidia.com,香港节点
+DOMAIN-SUFFIX,jmsuper.com,新加坡节点
+DOMAIN-SUFFIX,ottiptv.cc,DIRECT
+DOMAIN-SUFFIX,giffgaff.com,英国节点
+
+# 域名关键字匹配 (DOMAIN-KEYWORD)
+DOMAIN-KEYWORD,ikuuu,默认代理
+DOMAIN-KEYWORD,5movie,香港节点
+DOMAIN-KEYWORD,themoviedb.net,默认代理
+DOMAIN-KEYWORD,thetvdb,默认代理
+DOMAIN-KEYWORD,freeok,DIRECT
+DOMAIN-KEYWORD,quark,DIRECT
+
+# 完整域名匹配 (DOMAIN)
+DOMAIN,i.us.edu.kg,DIRECT
